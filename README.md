@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Felipe and I'm a back-end web developer student, from Sorocaba-SP, Brazil</p>
+<p align="left">My name is Felipe and I'm a back-end web developer student</p>
 
 ###
 
@@ -13,15 +13,16 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Docker<br>🎯 Goals: Back-end web development<br>🎲 Fun fact: I love coffee!</p>
+<p align="left">
+I'm ... from ....<br><br>✨ Creating bugs since 2023<br>📚 I'm currently learning Docker<br>🎯 Goals: Back-end web development<br>🎲 Fun fact: I love coffee!</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
