@@ -18,7 +18,7 @@
 ###
 
 <p align="left">
-I'm ... from ....<br><br>✨ Creating bugs since 2023<br>📚 I'm currently learning Docker<br>🎯 Goals: Back-end web development<br>🎲 Fun fact: I love coffee!</p>
+I'm from Sorocaba-SP, Brazil<br><br>✨ Creating bugs since 2023<br>📚 I'm currently learning Docker<br>🎯 Goals: Back-end web development<br>🎲 Fun fact: I love coffee!</p>
 
 ###
 
