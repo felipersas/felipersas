@@ -12,7 +12,7 @@ I've been learning to code since 2023, started with Java then went to Python, th
 * 🤝  I'm open to collaborating on Web development projects, open source projects.
 * ⚡  I love coffee!
 
-### Skills
+### Technologies & Tools
 
 
 <p align="left">
