@@ -9,7 +9,7 @@ I've been learning to code since 2023, started with Java then went to Python, th
 
 * 🌍  I'm based in Sorocaba, São Paulo
 * ✉️  You can contact me at [felipemarques.computacao@gmail.com](mailto:felipemarques.computacao@gmail.com)
-* 🧠  I'm learning React and TypeScript
+* 🧠  I'm learning Next.js and Nest.js
 * 🤝  I'm open to collaborating on Web development projects, open source projects.
 * ⚡  I love coffee!
 
