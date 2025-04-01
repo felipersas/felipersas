@@ -8,7 +8,6 @@ Web Developer
 I've been learning to code since 2023, started with Java then went to Python, the language that I use until nowadays. Recently I started to learn React and TypeScript to build better websites. I also love Linux world and in my free time a like to test new distros and personalize my Arch.
 
 * 🌍  I'm based in Sorocaba, São Paulo
-* ✉️  You can contact me at [felipemarques.computacao@gmail.com](mailto:felipemarques.computacao@gmail.com)
 * 🧠  I'm learning Next.js and Nest.js
 * 🤝  I'm open to collaborating on Web development projects, open source projects.
 * ⚡  I love coffee!
