@@ -5,7 +5,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I've been learning to code since 2023, started with Java then went to Python, the language that I use until nowadays. Recently I started to learn React and TypeScript to build better websites. I also love Linux world and in my free time a like to test new distros and personalize my Arch.
 
 * 🌍  I'm based in Sorocaba, São Paulo
 * 🧠  I'm learning Next.js and Nest.js
