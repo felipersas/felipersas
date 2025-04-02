@@ -15,10 +15,6 @@ I've been learning to code since 2023, started with Java then went to Python, th
 ### Technologies & Tools
 
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
 ###
 
 <div align="left">
