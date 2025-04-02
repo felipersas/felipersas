@@ -41,12 +41,10 @@ Web Developer
 
 <br clear="both">
 
-<img align="left" height="200" src="https://cdna.artstation.com/p/assets/images/images/054/753/166/original/daniel-felipe-pinilla-camacho-gatite-2.gif?1665299008&dl=1"  />
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipersas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=felipersas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+###
 ###
