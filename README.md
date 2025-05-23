@@ -9,7 +9,6 @@ Full-Stack Developer
 * 🌍  I'm based in Sorocaba, São Paulo
 * 🧠  I'm learning Next.js and Nest.js
 * 🤝  I'm open to collaborating on Web development projects, open source projects.
-* ⚡  Learning chess
 
 <h2 align="left">Technologies & Tools</h2>
 
