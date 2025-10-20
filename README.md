@@ -29,6 +29,26 @@ Full-Stack Developer
 </div>
 
 [//]: # (wakatime-stats)
+
+### Wakatime Stats
+```
++--------- All Time Stats for Programming Languages ---------+
+| Programming Languages     | Total Hours                    |
++---------------------------+--------------------------------+
+
+
++---------------- All Time Stats for Editors ----------------+
+| Editors                   | Total Hours                    |
++---------------------------+--------------------------------+
+
+
++----------- All Time Stats for Operating Systems -----------+
+| Operating Systems         | Total Hours                    |
++---------------------------+--------------------------------+
+```
+
 [//]: # (end-wakatime-stats)
+
+
 
 ###
