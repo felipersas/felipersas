@@ -28,27 +28,8 @@ Full-Stack Developer
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipersas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-[//]: # (wakatime-stats)
-
-### Wakatime Stats
-```
-+--------- All Time Stats for Programming Languages ---------+
-| Programming Languages     | Total Hours                    |
-+---------------------------+--------------------------------+
-
-
-+---------------- All Time Stats for Editors ----------------+
-| Editors                   | Total Hours                    |
-+---------------------------+--------------------------------+
-
-
-+----------- All Time Stats for Operating Systems -----------+
-| Operating Systems         | Total Hours                    |
-+---------------------------+--------------------------------+
-```
-
-[//]: # (end-wakatime-stats)
-
-
-
+<div>
+    <h2 align="left">📊 My stats in 2025</h2>
+    <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=felipersas&theme=dark&layout=compact"/>
+</div>
 ###
