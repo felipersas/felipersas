@@ -30,4 +30,4 @@ Full-Stack Developer
 
 ###
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=felipersas)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=felipersas&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
