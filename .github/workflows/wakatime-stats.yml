@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Update Wakatime stats
-        uses: felipersas/wakatime-stats@vmaster
+        uses: felipersas/felipersas@vmaster
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
