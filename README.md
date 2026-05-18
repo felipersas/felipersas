@@ -1,28 +1,58 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Felipe
-==============================================================================================================================
-<p align="left"> <a href="https://www.github.com/felipersas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/felipe-marques-a748b9299/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@FelipeMarques-Computação" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />  </picture> </a></p>
+<p>
+  <img 
+    src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/header.png" 
+    alt="README header"
+  >
+</p>
 
-Full-Stack Developer
--------------
+<h2>Full-Stack Developer (TypeScript, NestJS, Next.js & AI)</h2>
+
+<p>
+🔭 Currently working as a Full-Stack Developer at MindGroup Consulting e Marketing, building scalable systems focused on performance, automation and software architecture.
+</p>
+
+<p>
+💻 Working with:
+TypeScript, NestJS, Next.js, React Native, AWS, Docker, and AI Agents
+</p>
+
+<p>
+⚡ Experience with:
+DDD, RabbitMQ, CI/CD, Observability, REST APIs, Payments, Performance Optimization and Distributed Systems
+</p>
+
+<p>
+🤖 Exploring AI automation, RAG systems and intelligent agents for real-world products.
+</p>
+
+<p>
+🌎 Check my <a href="https://felipersas-dev.vercel.app/">portfolio</a>
+</p>
+
+<p>
+🥑 Eat 💻 Code ♻️ Repeat
+</p>
+
+<p>
+Feel free to reach out 💬
+</p>
 
 
-* 🌍  I'm based in Sorocaba, São Paulo
-* 🤝  I'm open to collaborating on Web development projects, open source projects.
 
-<h2 align="left">Technologies & Tools</h2>
-
-###
-
-
-
-###
-
-<br clear="both">
-
-<img align="left" height="230" src="https://usagif.com/wp-content/uploads/rain-23.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipersas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center" style="background:#414a50; padding: 25px 0;">
+    <a href="https://www.linkedin.com/in/felipe-marques-a748b9299/">
+        <img 
+          src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" 
+          alt="LinkedIn"
+        >
+    </a>
+    <a href="https://github.com/felipersas">
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+          width="40"
+          alt="GitHub"
+        >
+    </a>
 </div>
+
+<hr>
