@@ -40,16 +40,52 @@ At Keeper, the money a graduation class raises has to reconcile from the first p
 
 ## 🧰 Tech stack
 
-| | |
-|:--|:--|
-| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,go,rust,py,java,cs,bash" alt="TypeScript, JavaScript, Go, Rust, Python, Java, C#, Bash" /><br/><sub>SQL · Lua</sub> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,bun,elysia,flask,fastapi,spring,dotnet" alt="Node.js, NestJS, Bun, Elysia, Flask, FastAPI, Spring, .NET" /><br/><sub>tRPC · Socket.IO · Chi · Granian · Prisma · Drizzle · TypeORM · Spring Data JPA · EF Core · Zod · BullMQ · Better Auth · OpenAPI</sub> |
-| **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=react,nextjs,angular,astro,vite,tailwind" alt="React, Next.js, Angular, Astro, Vite, Tailwind CSS" /><br/><sub>React Native · Expo · NativeWind · TanStack (Query, Router, Form, Table) · shadcn/ui · Radix UI · Zustand · React Hook Form · Recharts · Remotion</sub> |
-| **Data & Messaging** | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,dynamodb,elasticsearch,rabbitmq" alt="PostgreSQL, MySQL, Redis, DynamoDB, Elasticsearch, RabbitMQ" /><br/><sub>pgvector · libSQL · Flyway · golang-migrate · S3 / MinIO · MQTT · InfluxDB</sub> |
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,nginx,linux,grafana,prometheus" alt="AWS, Docker, GitHub Actions, Vercel, Nginx, Linux, Grafana, Prometheus" /><br/><sub>ECS · Lambda · API Gateway · SNS · Cognito · SST · Kong · Keycloak · Docker Swarm · Traefik · Caddy · OpenTelemetry · Jaeger · Turborepo</sub> |
-| **AI & ML** | <img src="https://skillicons.dev/icons?i=pytorch,sklearn" alt="PyTorch, scikit-learn" /><br/><sub>Mastra · Vercel AI SDK · OpenAI · Gemini · text-to-SQL agents · RAG with pgvector · pandas · NumPy · Claude Code · Codex</sub> |
-| **Testing & Tools** | <img src="https://skillicons.dev/icons?i=jest,vitest,git,github,neovim,maven" alt="Jest, Vitest, Git, GitHub, Neovim, Maven" /><br/><sub>Playwright · Testcontainers · Testing Library · Supertest · pytest · JUnit · testify / gomock · Biome · uv</sub> |
-| **Architecture** | <sub>DDD · microservices · event-driven messaging · sagas · outbox / inbox · CQRS · double-entry ledgers · idempotent consumers · circuit breakers · OIDC + PKCE</sub> |
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,go,rust,py,java,cs,bash" alt="TypeScript, JavaScript, Go, Rust, Python, Java, C#, Bash" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,bun,elysia,flask,fastapi,spring,dotnet" alt="Node.js, NestJS, Bun, Elysia, Flask, FastAPI, Spring, .NET" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend & Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,angular,astro,vite,tailwind" alt="React, Next.js, Angular, Astro, Vite, Tailwind CSS" /></td>
+  </tr>
+  <tr>
+    <td><b>Data & Messaging</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,dynamodb,elasticsearch,rabbitmq,prisma" alt="PostgreSQL, MySQL, Redis, DynamoDB, Elasticsearch, RabbitMQ, Prisma" /></td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,nginx,linux,grafana,prometheus" alt="AWS, Docker, GitHub Actions, Vercel, Nginx, Linux, Grafana, Prometheus" /></td>
+  </tr>
+  <tr>
+    <td><b>AI & ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,sklearn" alt="PyTorch, scikit-learn" /></td>
+  </tr>
+  <tr>
+    <td><b>Testing & Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=jest,vitest,git,github,neovim,maven" alt="Jest, Vitest, Git, GitHub, Neovim, Maven" /></td>
+  </tr>
+</table>
+
+<details>
+<summary><b>More libraries & tools</b></summary>
+
+<br/>
+
+- **Architecture:** DDD · microservices · event-driven messaging · sagas · outbox / inbox · CQRS · double-entry ledgers · idempotent consumers · circuit breakers · OIDC + PKCE
+- **Languages:** SQL · Lua
+- **Backend:** tRPC · Socket.IO · Chi · Granian · Drizzle · TypeORM · Spring Data JPA · EF Core · Zod · BullMQ · Better Auth · OpenAPI
+- **Frontend & Mobile:** React Native · Expo · NativeWind · TanStack (Query, Router, Form, Table) · shadcn/ui · Radix UI · Zustand · React Hook Form · Recharts · Remotion
+- **Data & Messaging:** pgvector · libSQL · Flyway · golang-migrate · S3 / MinIO · MQTT · InfluxDB
+- **Cloud & DevOps:** ECS · Lambda · API Gateway · SNS · Cognito · SST · Kong · Keycloak · Docker Swarm · Traefik · Caddy · OpenTelemetry · Jaeger · Turborepo
+- **AI & ML:** Mastra · Vercel AI SDK · OpenAI · Gemini · text-to-SQL agents · RAG with pgvector · pandas · NumPy · Claude Code · Codex
+- **Testing & Tools:** Playwright · Testcontainers · Testing Library · Supertest · pytest · JUnit · testify / gomock · Biome · uv
+
+</details>
 
 ## 🚀 Featured projects
 
