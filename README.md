@@ -43,15 +43,15 @@ At Keeper, the money a graduation class raises has to reconcile from the first p
 <table>
   <tr>
     <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,go,rust,py,java,cs,bash" alt="TypeScript, JavaScript, Go, Rust, Python, Java, C#, Bash" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,go,rust,py,java,bash" alt="TypeScript, JavaScript, Go, Rust, Python, Java, Bash" /></td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,bun,elysia,flask,fastapi,spring,dotnet" alt="Node.js, NestJS, Bun, Elysia, Flask, FastAPI, Spring, .NET" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,bun,flask,fastapi,spring" alt="Node.js, NestJS, Bun, Flask, FastAPI, Spring" /></td>
   </tr>
   <tr>
     <td><b>Frontend & Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,angular,astro,vite,tailwind" alt="React, Next.js, Angular, Astro, Vite, Tailwind CSS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,angular,vite,tailwind" alt="React, Next.js, Angular, Vite, Tailwind CSS" /></td>
   </tr>
   <tr>
     <td><b>Data & Messaging</b></td>
@@ -67,7 +67,7 @@ At Keeper, the money a graduation class raises has to reconcile from the first p
   </tr>
   <tr>
     <td><b>Testing & Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=jest,vitest,git,github,neovim,maven" alt="Jest, Vitest, Git, GitHub, Neovim, Maven" /></td>
+    <td><img src="https://skillicons.dev/icons?i=jest,vitest,git,github,neovim" alt="Jest, Vitest, Git, GitHub, Neovim" /></td>
   </tr>
 </table>
 
@@ -76,14 +76,14 @@ At Keeper, the money a graduation class raises has to reconcile from the first p
 
 <br/>
 
-- **Architecture:** DDD · microservices · event-driven messaging · sagas · outbox / inbox · CQRS · double-entry ledgers · idempotent consumers · circuit breakers · OIDC + PKCE
-- **Languages:** SQL · Lua
-- **Backend:** tRPC · Socket.IO · Chi · Granian · Drizzle · TypeORM · Spring Data JPA · EF Core · Zod · BullMQ · Better Auth · OpenAPI
-- **Frontend & Mobile:** React Native · Expo · NativeWind · TanStack (Query, Router, Form, Table) · shadcn/ui · Radix UI · Zustand · React Hook Form · Recharts · Remotion
-- **Data & Messaging:** pgvector · libSQL · Flyway · golang-migrate · S3 / MinIO · MQTT · InfluxDB
-- **Cloud & DevOps:** ECS · Lambda · API Gateway · SNS · Cognito · SST · Kong · Keycloak · Docker Swarm · Traefik · Caddy · OpenTelemetry · Jaeger · Turborepo
-- **AI & ML:** Mastra · Vercel AI SDK · OpenAI · Gemini · text-to-SQL agents · RAG with pgvector · pandas · NumPy · Claude Code · Codex
-- **Testing & Tools:** Playwright · Testcontainers · Testing Library · Supertest · pytest · JUnit · testify / gomock · Biome · uv
+- **Architecture:** DDD · Clean Architecture · microservices · event-driven architecture · sagas · CQRS · outbox pattern
+- **Languages:** SQL
+- **Backend:** tRPC · Socket.IO · TypeORM · Drizzle · Zod · BullMQ · REST / OpenAPI · JWT
+- **Frontend & Mobile:** React Native · Expo · TanStack Query · shadcn/ui · Zustand · React Hook Form
+- **Data & Messaging:** Amazon S3 · pgvector
+- **Cloud & DevOps:** ECS · Lambda · API Gateway · SNS · Cognito · Kong · Keycloak · Traefik · OpenTelemetry · Jaeger · Turborepo
+- **AI & ML:** OpenAI · Gemini · Vercel AI SDK · LLM agents · RAG · pandas · NumPy · Claude Code · Codex
+- **Testing & Tools:** Playwright · Testcontainers · Testing Library · pytest · JUnit
 
 </details>
 
